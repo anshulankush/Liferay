@@ -1,0 +1,52 @@
+Mar 30, 2014 10:04:49 PM org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /Users/anshulchawla/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.
+Mar 30, 2014 10:04:52 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-8080"]
+Mar 30, 2014 10:04:52 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-bio-8009"]
+Mar 30, 2014 10:04:52 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 3880 ms
+Mar 30, 2014 10:04:53 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+Mar 30, 2014 10:04:53 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.42
+Mar 30, 2014 10:04:53 PM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying configuration descriptor /Users/anshulchawla/Documents/Workspaces/Liferay/liferay-portal-6.2-ce-ga2/tomcat-7.0.42/conf/Catalina/localhost/ROOT.xml
+Mar 30, 2014 10:07:11 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /Users/anshulchawla/Documents/Workspaces/Liferay/liferay-portal-6.2-ce-ga2/tomcat-7.0.42/webapps/calendar-portlet
+Mar 30, 2014 10:07:14 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /Users/anshulchawla/Documents/Workspaces/Liferay/liferay-portal-6.2-ce-ga2/tomcat-7.0.42/webapps/kaleo-web
+Mar 30, 2014 10:07:17 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /Users/anshulchawla/Documents/Workspaces/Liferay/liferay-portal-6.2-ce-ga2/tomcat-7.0.42/webapps/notifications-portlet
+Mar 30, 2014 10:07:19 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /Users/anshulchawla/Documents/Workspaces/Liferay/liferay-portal-6.2-ce-ga2/tomcat-7.0.42/webapps/opensocial-portlet
+Mar 30, 2014 10:07:22 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /Users/anshulchawla/Documents/Workspaces/Liferay/liferay-portal-6.2-ce-ga2/tomcat-7.0.42/webapps/resources-importer-web
+Mar 30, 2014 10:07:23 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /Users/anshulchawla/Documents/Workspaces/Liferay/liferay-portal-6.2-ce-ga2/tomcat-7.0.42/webapps/sync-web
+Mar 30, 2014 10:07:24 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /Users/anshulchawla/Documents/Workspaces/Liferay/liferay-portal-6.2-ce-ga2/tomcat-7.0.42/webapps/web-form-portlet
+Mar 30, 2014 10:07:26 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /Users/anshulchawla/Documents/Workspaces/Liferay/liferay-portal-6.2-ce-ga2/tomcat-7.0.42/webapps/welcome-theme
+Mar 30, 2014 10:07:27 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-8080"]
+Mar 30, 2014 10:07:27 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-bio-8009"]
+Mar 30, 2014 10:07:27 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 154193 ms
+Mar 30, 2014 10:15:24 PM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["http-bio-8080"]
+Mar 30, 2014 10:15:24 PM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["ajp-bio-8009"]
+Mar 30, 2014 10:15:24 PM org.apache.catalina.core.StandardService stopInternal
+INFO: Stopping service Catalina
+Mar 30, 2014 10:15:25 PM org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+SEVERE: The web application [] appears to have started a thread named [org.python.google.common.base.internal.Finalizer] but has failed to stop it. This is very likely to create a memory leak.
+Mar 30, 2014 10:15:26 PM org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["http-bio-8080"]
+Mar 30, 2014 10:15:26 PM org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["ajp-bio-8009"]
+Mar 30, 2014 10:15:26 PM org.apache.coyote.AbstractProtocol destroy
+INFO: Destroying ProtocolHandler ["http-bio-8080"]
+Mar 30, 2014 10:15:26 PM org.apache.coyote.AbstractProtocol destroy
+INFO: Destroying ProtocolHandler ["ajp-bio-8009"]

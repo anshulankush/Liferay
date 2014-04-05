@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servers>
+  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/Liferay v6.2 CE Server (Tomcat 7) at localhost-config" hostname="localhost" id="Liferay v6.2 CE Server (Tomcat 7) at localhost" name="Liferay v6.2 CE Server (Tomcat 7) at localhost" runtime-id="Liferay v6.2 CE (Tomcat 7)" saveSeparateContextFiles="false" server-type="com.liferay.ide.eclipse.server.tomcat.7062" server-type-id="com.liferay.ide.eclipse.server.tomcat.7062" start-timeout="900" stop-timeout="300" testEnvironment="false" timestamp="0"/>
+</servers>

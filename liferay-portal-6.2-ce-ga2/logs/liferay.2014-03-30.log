@@ -1,0 +1,51 @@
+22:05:51,332 INFO  [localhost-startStop-1][DialectDetector:71] Determine dialect for HSQL Database Engine 2
+22:05:51,337 WARN  [localhost-startStop-1][DialectDetector:86] Liferay is configured to use Hypersonic as its database. Do NOT use Hypersonic in production. Hypersonic is an embedded database useful for development and demo'ing purposes. The database settings can be changed in portal-ext.properties.
+22:05:51,387 INFO  [localhost-startStop-1][DialectDetector:136] Found dialect org.hibernate.dialect.HSQLDialect
+22:06:23,792 INFO  [localhost-startStop-1][BaseDB:481] Database supports case sensitive queries
+22:06:25,264 INFO  [localhost-startStop-1][VerifyProcess:55] Verifying com.liferay.portal.verify.VerifyProcessSuite
+22:06:25,265 INFO  [localhost-startStop-1][VerifyProcess:55] Verifying com.liferay.portal.verify.VerifyProperties
+22:06:25,279 INFO  [localhost-startStop-1][VerifyProcess:55] Verifying com.liferay.portal.verify.VerifyDB2
+22:06:25,280 INFO  [localhost-startStop-1][VerifyProcess:55] Verifying com.liferay.portal.verify.VerifyMySQL
+22:06:25,281 INFO  [localhost-startStop-1][VerifyProcess:55] Verifying com.liferay.portal.verify.VerifyOracle
+22:06:25,282 INFO  [localhost-startStop-1][VerifyProcess:55] Verifying com.liferay.portal.verify.VerifySQLServer
+22:06:25,282 INFO  [localhost-startStop-1][VerifyProcess:55] Verifying com.liferay.portal.verify.VerifyUUID
+22:06:25,300 INFO  [localhost-startStop-1][VerifyProcess:55] Verifying com.liferay.portal.verify.VerifyPermission
+22:06:26,016 INFO  [localhost-startStop-1][VerifyProcess:55] Verifying com.liferay.portal.verify.VerifyGroup
+22:06:26,061 INFO  [localhost-startStop-1][VerifyProcess:55] Verifying com.liferay.portal.verify.VerifyRole
+22:06:26,062 INFO  [localhost-startStop-1][VerifyProcess:55] Verifying com.liferay.portal.verify.VerifyAsset
+22:06:26,067 INFO  [localhost-startStop-1][UpgradeProcess:175] Upgrading com.liferay.portal.upgrade.util.UpgradeAssetPublisherManualEntries
+22:06:26,071 INFO  [localhost-startStop-1][VerifyProcess:55] Verifying com.liferay.portal.verify.VerifyAuditedModel
+22:06:26,080 INFO  [localhost-startStop-1][VerifyProcess:55] Verifying com.liferay.portal.verify.VerifyBlogs
+22:06:26,086 INFO  [localhost-startStop-1][VerifyProcess:55] Verifying com.liferay.portal.verify.VerifyBookmarks
+22:06:26,094 INFO  [localhost-startStop-1][VerifyProcess:55] Verifying com.liferay.portal.verify.VerifyCalendar
+22:06:26,102 INFO  [localhost-startStop-1][VerifyProcess:55] Verifying com.liferay.portal.verify.VerifyDocumentLibrary
+22:06:26,259 INFO  [localhost-startStop-1][VerifyProcess:55] Verifying com.liferay.portal.verify.VerifyDynamicDataMapping
+22:06:26,268 INFO  [localhost-startStop-1][VerifyProcess:55] Verifying com.liferay.portal.verify.VerifyGroupId
+22:06:26,274 INFO  [localhost-startStop-1][VerifyProcess:55] Verifying com.liferay.portal.verify.VerifyJournal
+22:06:26,297 INFO  [localhost-startStop-1][VerifyProcess:55] Verifying com.liferay.portal.verify.VerifyLayout
+22:06:26,316 INFO  [localhost-startStop-1][VerifyProcess:55] Verifying com.liferay.portal.verify.VerifyMessageBoards
+22:06:26,334 INFO  [localhost-startStop-1][VerifyProcess:55] Verifying com.liferay.portal.verify.VerifyOrganization
+22:06:26,354 INFO  [localhost-startStop-1][VerifyProcess:55] Verifying com.liferay.portal.verify.VerifyResourcePermissions
+22:06:26,356 INFO  [localhost-startStop-1][VerifyProcess:55] Verifying com.liferay.portal.verify.VerifyUser
+22:06:26,368 INFO  [localhost-startStop-1][VerifyProcess:55] Verifying com.liferay.portal.verify.VerifyWiki
+22:06:26,374 INFO  [localhost-startStop-1][VerifyProcess:55] Verifying com.liferay.portal.verify.VerifyWorkflow
+22:06:26,459 INFO  [localhost-startStop-1][ServerDetector:119] Server supports hot deploy
+22:06:26,465 INFO  [localhost-startStop-1][PluginPackageUtil:1013] Reading plugin package for the root context
+22:06:59,418 INFO  [localhost-startStop-1][AutoDeployDir:116] Creating missing directory /Users/anshulchawla/Documents/Workspaces/Liferay/liferay-portal-6.2-ce-ga2/deploy
+22:06:59,420 INFO  [localhost-startStop-1][AutoDeployDir:139] Auto deploy scanner started for /Users/anshulchawla/Documents/Workspaces/Liferay/liferay-portal-6.2-ce-ga2/deploy
+22:15:24,295 INFO  [localhost-startStop-2][HotDeployEvent:130] Plugin welcome-theme requires marketplace-portlet, resources-importer-web
+22:15:24,344 INFO  [localhost-startStop-2][PluginPackageUtil:1016] Reading plugin package for welcome-theme
+22:15:24,351 INFO  [localhost-startStop-2][HotDeployEvent:130] Plugin web-form-portlet requires marketplace-portlet
+22:15:24,351 INFO  [localhost-startStop-2][PluginPackageUtil:1016] Reading plugin package for web-form-portlet
+22:15:24,354 INFO  [localhost-startStop-2][HotDeployEvent:130] Plugin sync-web requires marketplace-portlet
+22:15:24,355 INFO  [localhost-startStop-2][PluginPackageUtil:1016] Reading plugin package for sync-web
+22:15:24,367 INFO  [localhost-startStop-2][HotDeployEvent:130] Plugin resources-importer-web requires marketplace-portlet
+22:15:24,368 INFO  [localhost-startStop-2][PluginPackageUtil:1016] Reading plugin package for resources-importer-web
+22:15:24,370 INFO  [localhost-startStop-2][HotDeployEvent:130] Plugin opensocial-portlet requires marketplace-portlet
+22:15:24,371 INFO  [localhost-startStop-2][PluginPackageUtil:1016] Reading plugin package for opensocial-portlet
+22:15:24,375 INFO  [localhost-startStop-2][HotDeployEvent:130] Plugin notifications-portlet requires marketplace-portlet
+22:15:24,376 INFO  [localhost-startStop-2][PluginPackageUtil:1016] Reading plugin package for notifications-portlet
+22:15:24,378 INFO  [localhost-startStop-2][HotDeployEvent:130] Plugin kaleo-web requires marketplace-portlet
+22:15:24,379 INFO  [localhost-startStop-2][PluginPackageUtil:1016] Reading plugin package for kaleo-web
+22:15:24,384 INFO  [localhost-startStop-2][HotDeployEvent:130] Plugin calendar-portlet requires marketplace-portlet
+22:15:24,385 INFO  [localhost-startStop-2][PluginPackageUtil:1016] Reading plugin package for calendar-portlet
